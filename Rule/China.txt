@@ -7,7 +7,7 @@ payload:
   - DOMAIN-SUFFIX,snapdrop.net
   - DOMAIN,download.jetbrains.com
   - DOMAIN,origin-a.akamaihd.net
-  # ---(Microsoft)---
+  # ----(Microsoft)----
   # > Outlook
   - DOMAIN,outlook.office365.com
   - DOMAIN,smtp-mail.outlook.com
@@ -20,7 +20,6 @@ payload:
   - DOMAIN,download.microsoft.com
   - DOMAIN,wustat.windows.com
   - DOMAIN,ntservicepack.microsoft.com
-  # ------
   # > PayPal
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypal.me
@@ -39,8 +38,23 @@ payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com
   # > Speed Test
+  - DOMAIN-SUFFIX,cdnst.net
+  - DOMAIN-SUFFIX,cellmaps.com
+  - DOMAIN-SUFFIX,ekahau.cloud
+  - DOMAIN-SUFFIX,ekahau.com
+  - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,netspeedtestmaster.com
-  - DOMAIN,speedtest.macpaw.com
+  - DOMAIN-SUFFIX,ookla.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,pingtest.net
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-SUFFIX,speed.dler.io
+  - DOMAIN-SUFFIX,speedtest.co
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speedtestcustom.com
+  - DOMAIN-SUFFIX,webtest.net
+  - DOMAIN-KEYWORD,speedtest
+  - USER-AGENT,SpeedTest*
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv
