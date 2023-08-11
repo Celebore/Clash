@@ -54,7 +54,6 @@ payload:
   - DOMAIN-SUFFIX,speedtestcustom.com
   - DOMAIN-SUFFIX,webtest.net
   - DOMAIN-KEYWORD,speedtest
-  - USER-AGENT,SpeedTest*
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv
