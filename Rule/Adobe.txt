@@ -58,7 +58,6 @@ payload:
   - DOMAIN-SUFFIX,assetsadobe.com
   - DOMAIN-SUFFIX,authorxml.com
   - DOMAIN-SUFFIX,bam.nr-data.net
-  - DOMAIN-SUFFIX,behance.net
   - DOMAIN-SUFFIX,bluefootcms.com
   - DOMAIN-SUFFIX,businesscatalyst.com
   - DOMAIN-SUFFIX,ccnsite.com
