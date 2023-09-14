@@ -1,5 +1,5 @@
 # NAME: Global
-# UPDATED: 2023-08-11
+# UPDATED: 2023-09-09
 payload:
   # > Other
   - DOMAIN-SUFFIX,9cache.com
