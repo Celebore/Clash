@@ -1,0 +1,33 @@
+# NAME: Freedom
+# UPDATED: 2023-09-28
+payload:
+  # > General
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,pianyuan.org
+  # > Adobe
+  - DOMAIN,aps-web.adobe.io
+  - DOMAIN,assets.adobedtm.com
+  - DOMAIN,cc-api-behance.adobe.io
+  - DOMAIN,cc-api-data.adobe.io
+  - DOMAIN,clio-assets.adobe.com
+  - DOMAIN,firefly.adobe.com
+  - DOMAIN,firefly.adobe.io
+  - DOMAIN,firefly-md.adobe.io
+  - DOMAIN,images-tv.adobe.com
+  - DOMAIN,ims-na1.adobelogin.com
+  - DOMAIN,p13n.adobe.io
+  - DOMAIN,platform-cs.adobe.io
+  - DOMAIN,platform-cs-va6.adobe.io
+  - DOMAIN,video.tv.adobe.com
+  # > Video
+  - DOMAIN-SUFFIX,91porn.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,onejav.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,redtube.com
+  - DOMAIN-SUFFIX,tube8.com
+  - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,youporn.com
