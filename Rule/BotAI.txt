@@ -1,6 +1,8 @@
 # NAME: BotAI
 # UPDATED: 2024-05-23
 payload:
+  # > ChatGPT
+  - DOMAIN,ai.cn
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -14,3 +16,22 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-KEYWORD,openai
+  - DOMAIN,cdn.auth0.com
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,o33249.ingest.sentry.io // Tracing
+  - DOMAIN-SUFFIX,oaistatic.com // Stats
+  - DOMAIN,api.statsig.com // Stats
+  # > Google Gemini
+  - DOMAIN,ai.google.dev
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-KEYWORD,generativelanguage
