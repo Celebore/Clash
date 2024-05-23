@@ -1,5 +1,5 @@
-# NAME: OpenAI
-# UPDATED: 2023-08-11
+# NAME: BotAI
+# UPDATED: 2024-05-23
 payload:
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
