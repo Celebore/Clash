@@ -1,5 +1,5 @@
 # NAME: Global
-# UPDATED: 2024-06-08
+# UPDATED: 2024-08-24
 payload:
   # > General
   - DOMAIN-SUFFIX,9cache.com
@@ -355,6 +355,7 @@ payload:
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculuscdn.com
   - DOMAIN-SUFFIX,readyatdawn.com
