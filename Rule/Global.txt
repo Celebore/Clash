@@ -1,5 +1,5 @@
 # NAME: Global
-# UPDATED: 2024-08-24
+# UPDATED: 2024-09-02
 payload:
   # > General
   - DOMAIN-SUFFIX,9cache.com
@@ -112,6 +112,7 @@ payload:
   - DOMAIN-SUFFIX,newstatesman.com
   - DOMAIN-SUFFIX,newsweek.com
   - DOMAIN-SUFFIX,newyorker.com
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,omny.fm
